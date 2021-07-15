@@ -34,3 +34,7 @@ if t > p_value:
     print('Reject null hypothesis!')
 else:
     print('Accept null hypothesis!')
+
+"""
+Finally, we accept our alternative hypothesis which means that average population mean of women != average population mean of men
+"""
