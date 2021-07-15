@@ -5,7 +5,7 @@ We are going to use t-test in order to find out whether differences between age 
 Average age of men is 45, standard deviation = 9
 Average age of women if 34, standard deviation = 10
 Our null hypothesis goes like this: average population age of women = average population age of men
-Alternative hypothesis follows: average population mean of women != average population mean of men
+Alternative hypothesis follows: average population age of women != average population age of men
 """
 import math
 import numpy as np
