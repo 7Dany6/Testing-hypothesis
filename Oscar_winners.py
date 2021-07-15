@@ -36,5 +36,5 @@ else:
     print('Accept null hypothesis!')
 
 """
-Finally, we accept our alternative hypothesis which means that average population mean of women != average population mean of men
+Finally, we accept our alternative hypothesis which means that 'average population mean of women != average population mean of men'
 """
